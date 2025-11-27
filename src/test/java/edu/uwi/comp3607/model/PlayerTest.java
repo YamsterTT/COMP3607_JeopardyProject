@@ -1,4 +1,4 @@
-package edu.uwi.comp3607.model;
+package test.java.edu.uwi.comp3607.model;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package edu.uwi.comp3607.ui;
+package main.java.edu.uwi.comp3607.ui;
 
 import edu.uwi.comp3607.engine.GameEngine;
 import edu.uwi.comp3607.engine.GameEngine.AnswerResult;

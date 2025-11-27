@@ -1,4 +1,4 @@
-package edu.uwi.comp3607.parser;
+package test.java.edu.uwi.comp3607.parser;
 
 import edu.uwi.comp3607.model.Question;
 import org.junit.jupiter.api.BeforeEach;
