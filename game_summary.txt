@@ -1,0 +1,263 @@
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME1
+
+Players: tom, jim
+
+Gameplay Summary:
+-----------------
+Turn 1: tom selected Variables & Data Types for 200 pts
+Question: Which data type is used to store a single character?
+Answer: a — Incorrect (-200 pts)
+Score after turn: tom = -200
+
+Turn 2: jim selected Arrays for 300 pts
+Question: Which loop is best for iterating a fixed-size array?
+Answer: a — Incorrect (-300 pts)
+Score after turn: jim = -300
+
+
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME2
+
+Players: Tom, Jack, Harry
+
+Gameplay Summary:
+-----------------
+Turn 1: Tom selected Variables & Data Types for 300 pts
+Question: What is the value of x after int x = 5/2;?
+Answer: a — Correct (+300 pts)
+Score after turn: Tom = 300
+
+Turn 2: Jack selected File Handling for 100 pts
+Question: Which header file is used for file I/O?
+Answer: e — Incorrect (-100 pts)
+Score after turn: Jack = -100
+
+Turn 3: Harry selected Functions for 200 pts
+Question: What is the purpose of a function parameter?
+Answer: d — Incorrect (-200 pts)
+Score after turn: Harry = -200
+
+Turn 4: Tom selected Functions for 500 pts
+Question: If a function is not declared before use, what may happen?
+Answer: b — Correct (+500 pts)
+Score after turn: Tom = 800
+
+Turn 5: Jack selected Control Structures for 400 pts
+Question: Which keyword exits a loop immediately?
+Answer: b — Incorrect (-400 pts)
+Score after turn: Jack = -500
+
+Turn 6: Harry selected Arrays for 400 pts
+Question: What happens if you access out-of-range index?
+Answer: c — Incorrect (-400 pts)
+Score after turn: Harry = -600
+
+Turn 7: Tom selected Variables & Data Types for 400 pts
+Question: Which of the following is a floating-point literal?
+Answer: b — Correct (+400 pts)
+Score after turn: Tom = 1200
+
+Turn 8: Jack selected Variables & Data Types for 500 pts
+Question: Which operator is used to get the remainder?
+Answer: b — Correct (+500 pts)
+Score after turn: Jack = 0
+
+Turn 9: Harry selected Variables & Data Types for 200 pts
+Question: Which data type is used to store a single character?
+Answer: b — Correct (+200 pts)
+Score after turn: Harry = -400
+
+Turn 10: Tom selected Variables & Data Types for 100 pts
+Question: Which of the following declares an integer variable in C++?
+Answer: a — Correct (+100 pts)
+Score after turn: Tom = 1300
+
+Turn 11: Harry selected Control Structures for 300 pts
+Question: Which loop always executes at least once?
+Answer: d — Incorrect (-300 pts)
+Score after turn: Harry = -700
+
+Turn 12: Tom selected Control Structures for 200 pts
+Question: What is the output of: if (5 > 10) cout << 'Hi'; else cout << 'Bye';
+Answer: d — Incorrect (-200 pts)
+Score after turn: Tom = 1100
+
+Turn 13: Jack selected Arrays for 300 pts
+Question: Which loop is best for iterating a fixed-size array?
+Answer: c — Correct (+300 pts)
+Score after turn: Jack = 300
+
+Turn 14: Harry selected Functions for 300 pts
+Question: What is the return type of int add(int a, int b)?
+Answer: a — Correct (+300 pts)
+Score after turn: Harry = -400
+
+Turn 15: Tom selected File Handling for 300 pts
+Question: Which method opens a file in append mode?
+Answer: c — Correct (+300 pts)
+Score after turn: Tom = 1400
+
+Turn 16: Harry selected Arrays for 200 pts
+Question: What is the index of the first element in a C++ array?
+Answer: b — Correct (+200 pts)
+Score after turn: Harry = -200
+
+Turn 17: Tom selected Functions for 400 pts
+Question: Which statement exits a function and sends a value back?
+Answer: b — Correct (+400 pts)
+Score after turn: Tom = 1800
+
+
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME3
+
+Players: tom, jack
+
+Gameplay Summary:
+-----------------
+Turn 1: tom selected Variables & Data Types for 200 pts
+Question: Which data type is used to store a single character?
+Answer: a — Incorrect (-200 pts)
+Score after turn: tom = -200
+
+
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME4
+
+Players: Jill, Harry
+
+Gameplay Summary:
+-----------------
+
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME5
+
+Players: Tom, Jack, Ellis
+
+Gameplay Summary:
+-----------------
+Turn 1: Tom selected Control Structures for 300 pts
+Question: Which loop always executes at least once?
+Answer: a — Incorrect (-300 pts)
+Score after turn: Tom = -300
+
+Turn 2: Jack selected Control Structures for 200 pts
+Question: What is the output of: if (5 > 10) cout << 'Hi'; else cout << 'Bye';
+Answer: c — Incorrect (-200 pts)
+Score after turn: Jack = -200
+
+Turn 3: Ellis selected Variables & Data Types for 200 pts
+Question: Which data type is used to store a single character?
+Answer: c — Incorrect (-200 pts)
+Score after turn: Ellis = -200
+
+Turn 4: Tom selected Arrays for 300 pts
+Question: Which loop is best for iterating a fixed-size array?
+Answer: a — Incorrect (-300 pts)
+Score after turn: Tom = -600
+
+Turn 5: Jack selected Variables & Data Types for 100 pts
+Question: Which of the following declares an integer variable in C++?
+Answer: a — Correct (+100 pts)
+Score after turn: Jack = -100
+
+Turn 6: Ellis selected Control Structures for 400 pts
+Question: Which keyword exits a loop immediately?
+Answer: b — Incorrect (-400 pts)
+Score after turn: Ellis = -600
+
+Turn 7: Tom selected Variables & Data Types for 400 pts
+Question: Which of the following is a floating-point literal?
+Answer: b — Correct (+400 pts)
+Score after turn: Tom = -200
+
+Turn 8: Jack selected Control Structures for 500 pts
+Question: How many times will the loop for(int i=0;i<3;i++) run?
+Answer: 3 — Correct (+500 pts)
+Score after turn: Jack = 400
+
+
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME6
+
+Players: tom, harry
+
+Gameplay Summary:
+-----------------
+Turn 1: tom selected Control Structures for 100 pts
+Question: Which statement is used to make a decision?
+Answer: a — Correct (+100 pts)
+Score after turn: tom = 100
+
+Turn 2: harry selected Functions for 200 pts
+Question: What is the purpose of a function parameter?
+Answer: d — Incorrect (-200 pts)
+Score after turn: harry = -200
+
+Turn 3: tom selected Arrays for 200 pts
+Question: What is the index of the first element in a C++ array?
+Answer: a — Incorrect (-200 pts)
+Score after turn: tom = -100
+
+
+JEOPARDY PROGRAMMING GAME REPORT
+================================
+
+Case ID: GAME7
+
+Players: Randy, Pim, Garret, Jade
+
+Gameplay Summary:
+-----------------
+Turn 1: Randy selected Control Structures for 100 pts
+Question: Which statement is used to make a decision?
+Answer: c — Incorrect (-100 pts)
+Score after turn: Randy = -100
+
+Turn 2: Pim selected Control Structures for 500 pts
+Question: How many times will the loop for(int i=0;i<3;i++) run?
+Answer: b — Correct (+500 pts)
+Score after turn: Pim = 500
+
+Turn 3: Garret selected Functions for 500 pts
+Question: If a function is not declared before use, what may happen?
+Answer: d — Incorrect (-500 pts)
+Score after turn: Garret = -500
+
+Turn 4: Jade selected Control Structures for 200 pts
+Question: What is the output of: if (5 > 10) cout << 'Hi'; else cout << 'Bye';
+Answer: a — Incorrect (-200 pts)
+Score after turn: Jade = -200
+
+Turn 5: Randy selected Functions for 400 pts
+Question: Which statement exits a function and sends a value back?
+Answer: d — Incorrect (-400 pts)
+Score after turn: Randy = -500
+
+Turn 6: Pim selected Functions for 300 pts
+Question: What is the return type of int add(int a, int b)?
+Answer: d — Incorrect (-300 pts)
+Score after turn: Pim = 200
+
+Turn 7: Garret selected File Handling for 500 pts
+Question: What happens if a file fails to open?
+Answer: c — Correct (+500 pts)
+Score after turn: Garret = 0
+
+Turn 8: Jade selected Arrays for 500 pts
+Question: How many elements in int arr[3][4];?
+Answer: b — Correct (+500 pts)
+Score after turn: Jade = 300
