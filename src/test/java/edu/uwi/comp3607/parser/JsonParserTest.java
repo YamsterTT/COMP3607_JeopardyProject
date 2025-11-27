@@ -7,21 +7,20 @@ import java.io.FileWriter;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
-class CsvParserTest {
+class JsonParserTest {
 
-    private CsvParser parser;
+    private JsonParser parser;
     private File tempFile;
 
     @BeforeEach
     void setUp() throws Exception {
-        parser = new CsvParser();
+        parser = new JsonParser();
 
-        tempFile = File.createTempFile("test-questions", ".csv");
+        tempFile = File.createTempFile("test-questions", ".json");
         tempFile.deleteOnExit();
 
         try (FileWriter writer = new FileWriter(tempFile)) {
-            writer.write("Category,Value,Question,OptionA,OptionB,OptionC,OptionD,CorrectAnswer\n");
-            writer.write("Math,100,2+2=?,1,2,3,4,D\n");
+            writer.write("[{\"Category\":\"Math\",\"Value\":100,\"Question\":\"2+2=?\",\"OptionA\":\"1\",\"OptionB\":\"2\",\"OptionC\":\"3\",\"OptionD\":\"4\",\"CorrectAnswer\":\"D\"}]");
         }
     }
 

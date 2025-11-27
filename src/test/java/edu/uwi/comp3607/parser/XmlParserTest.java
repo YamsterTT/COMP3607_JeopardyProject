@@ -7,21 +7,33 @@ import java.io.FileWriter;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
-class CsvParserTest {
+class XmlParserTest {
 
-    private CsvParser parser;
+    private XmlParser parser;
     private File tempFile;
 
     @BeforeEach
     void setUp() throws Exception {
-        parser = new CsvParser();
+        parser = new XmlParser();
 
-        tempFile = File.createTempFile("test-questions", ".csv");
+        tempFile = File.createTempFile("test-questions", ".xml");
         tempFile.deleteOnExit();
 
         try (FileWriter writer = new FileWriter(tempFile)) {
-            writer.write("Category,Value,Question,OptionA,OptionB,OptionC,OptionD,CorrectAnswer\n");
-            writer.write("Math,100,2+2=?,1,2,3,4,D\n");
+            writer.write("<JeopardyQuestions>\n");
+            writer.write("  <QuestionItem>\n");
+            writer.write("    <Category>Math</Category>\n");
+            writer.write("    <Value>100</Value>\n");
+            writer.write("    <QuestionText>2+2=?</QuestionText>\n");
+            writer.write("    <Options>\n");
+            writer.write("      <OptionA>1</OptionA>\n");
+            writer.write("      <OptionB>2</OptionB>\n");
+            writer.write("      <OptionC>3</OptionC>\n");
+            writer.write("      <OptionD>4</OptionD>\n");
+            writer.write("    </Options>\n");
+            writer.write("    <CorrectAnswer>D</CorrectAnswer>\n");
+            writer.write("  </QuestionItem>\n");
+            writer.write("</JeopardyQuestions>");
         }
     }
 
