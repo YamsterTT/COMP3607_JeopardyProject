@@ -1,4 +1,4 @@
-#COMP3607_Jeopardy_Project#
+# COMP3607_Jeopardy_Project
 Java-based multiplayer Jeopardy game simulation 
 
 How to play:
